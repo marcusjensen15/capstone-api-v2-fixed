@@ -4,6 +4,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 This api is deployed live on Heroku. You can make calls to: https://quiet-bayou-85740.herokuapp.com/articles
+Using a service like postman.
 
 Things you may want to cover:
 
